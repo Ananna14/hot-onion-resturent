@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Salmon With Grapefruit and Lentil Salad",
+      "img": "https://raw.githubusercontent.com/ProgrammingHero1/hot-onion-restaurent/master/Dinner/dinner1.png",
+      "discription": "How we dream about our future",
+      "price": "$11.69"
+    },
+    {
+      "name": "Lemony Salmon Piccata",
+      "img": "https://raw.githubusercontent.com/ProgrammingHero1/hot-onion-restaurent/master/Dinner/dinner5.png",
+      "discription": "How we dream about our future",
+      "price": "$66.12"
+    },
+    {
+      "name": "French fries with cheese",
+      "img": "https://raw.githubusercontent.com/ProgrammingHero1/hot-onion-restaurent/master/Dinner/dinner3.png",
+      "discription": "How we dream about our future",
+      "price": "$99.01"
+    },
+    {
+      "name": "Eggs Benedict",
+      "img": "https://raw.githubusercontent.com/ProgrammingHero1/hot-onion-restaurent/master/Dinner/dinner6.png",
+      "discription": "How we dream about our future",
+      "price": "$33.22"
+    }
+  ]

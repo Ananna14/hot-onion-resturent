@@ -1,0 +1,13 @@
+.single-item img{
+width: 200px;
+
+}
+.single-item{
+    background-color: white;
+    margin: 30px;
+
+}
+.single-item:hover{
+    background-color: wheat;
+    padding: 20px;
+}
